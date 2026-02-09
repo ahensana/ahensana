@@ -15,12 +15,24 @@
 
 ---
 
+
 ### 🛠 Tech Stack
+
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,mysql,git,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
 </p>
 
----
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
+
+**Full Stack (MERN)**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs" />
+</p>
+
 
 ### 📊 GitHub Stats
 <p>
