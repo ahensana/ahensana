@@ -9,10 +9,7 @@
 
 ### 🚀 About Me
 - 💻 Web Developer
-- 🔭 Working on Ecommerce & Admin Panels
-- 🌱 Learning React, Flutter & DevOps
 - ❤️ Loves clean UI & smooth UX
-
 ---
 
 
