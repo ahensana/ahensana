@@ -49,35 +49,6 @@ I build **web & mobile applications, backend systems, and SaaS platforms**.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 RilangCare
-
-Healthcare SaaS platform for managing hospital and clinic workflows.
-
-**Tech:**  
-`React Native` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Redis`
-
----
-
-### 🏡 BNBP
-
-Homestay booking platform designed for properties in Meghalaya.
-
-**Tech:**  
-`Web` `Firebase` `Payment Gateway` `Booking System`
-
----
-
-### 👖 StyleGear
-
-E-commerce platform for denim products.
-
-**Tech:**  
-`Flutter` `Firebase` `Firestore`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
