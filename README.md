@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ahensana RK
 
-### Full-Stack Developer • Mobile Developer • Software Engineer
+### Full-Stack Developer
 
 I build **web & mobile applications, backend systems, and SaaS platforms**.
 
