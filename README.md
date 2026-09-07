@@ -49,15 +49,6 @@ I build **web & mobile applications, backend systems, and SaaS platforms**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahensana&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahensana&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -65,31 +56,3 @@ I build **web & mobile applications, backend systems, and SaaS platforms**.
 </p>
 
 ---
-
-## 🧰 Tools I Use
-
-`VS Code` • `Android Studio` • `Postman` • `Git` • `GitHub` • `Firebase` • `Docker`
-
----
-
-## 🎯 Currently
-
-🔨 Building SaaS applications  
-📱 Developing mobile applications  
-🌐 Building full-stack web applications  
-☁️ Working with cloud infrastructure  
-🧠 Learning and building new things  
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/ahensana">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
