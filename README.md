@@ -1,16 +1,21 @@
-# 👋 Hey, I'm Ahensana RK
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ahensana+RK+%F0%9F%91%8B;Full-Stack+Developer;Mobile+Developer;Software+Engineer" />
+</p>
 
-### Full-Stack Developer
+<p align="center">
+  <b>I build web & mobile applications, backend systems, and SaaS platforms.</b>
+</p>
 
-I build **web & mobile applications, backend systems, and SaaS platforms**.
+<p align="center">
+  🚀 Building real-world projects &nbsp;•&nbsp;
+  📱 Mobile & Web Development &nbsp;•&nbsp;
+  ⚙️ Backend & API Development
+</p>
 
-🚀 Building real-world projects  
-📱 Mobile & Web Development  
-⚙️ Backend & API Development  
-☁️ Firebase / Azure  
-🧠 Always learning something new  
-
----
+<p align="center">
+  ☁️ Firebase / Azure &nbsp;•&nbsp;
+  🧠 Always learning something new
+</p>
 
 ## 🛠️ Tech Stack
 
